@@ -1,3 +1,5 @@
+# git rm -r --cached public/uploads
+
 ีีpublic/uploads
 node_modules/
 .env
